@@ -92,7 +92,7 @@ body {
     border-radius: .3rem;
     margin-top: 1rem;
     background-color: transparent;
-    background-color: rgb(41, 152, 255);
+    background-color: rgb(72, 114, 153);
     color: #fff;
 }
 
@@ -106,7 +106,7 @@ body {
     border: none;
     padding: .5rem 2rem;
     border-radius: .2rem;
-    background-color: rgba(41, 152, 255,.8);
+    background-color: rgba(72, 114, 153,.8);
     color: #fff;
     font-size: 1.4rem;
     margin-top: 1rem;
@@ -114,7 +114,7 @@ body {
     transition: all .1s linear;
 }
 #reset-btn:hover {
-    background-color: rgba(41, 152, 255,1);
+    background-color: rgba(72, 114, 153,1);
     
 }
 
